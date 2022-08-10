@@ -286,7 +286,7 @@ textarea {
 .iconos{
 	display: none;
 }
-@media (max-width: 380px){
+@media (max-width: 480px){
 	.info img{
 		max-width: 150px;
 	}
@@ -338,6 +338,11 @@ textarea {
 .referencias ul,h3,hr{
 	color: #fff;
 }
+.contacto ul li{
+	color: #fff;
+	
+}
+
 
 .icon-github:before {
   content: "\eab0";
